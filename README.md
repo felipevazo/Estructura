@@ -10,7 +10,10 @@
 - Las mas comunes: arreglos, listas enlazadas, pilas, etc.
 - Algoritmos -> procedimientos para manipular datos en estructuras.
 
-#tipos de problemas
+# tipos de problemas
 - almacenamiento 
 - herramientas de programasound
 - Modelamiento.
+
+# Fortalezas vs debilidades
+- MIRAR PPT!, mushas cosas
