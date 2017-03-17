@@ -17,3 +17,13 @@
 
 # Fortalezas vs debilidades
 - MIRAR PPT!, mushas cosas
+
+# Estructuras 17/3
+- INSTALAR ECLIPSE
+- Compilar: Cuando se pasa codigo a lenguaje maquina
+
+# ARREGLOS
+- Estrucutras de datos mas usadas
+- Borrar implica ignorar
+- Complejidad( Insert=1, Buscar N/2, Borrar N/2 y  N/2 respectivamente, SOLO CUANDO NO HAY DUPLICADOS), N para duplicatres
+- Mirar ejemplox ox ox ox ox ox 
