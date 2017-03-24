@@ -27,3 +27,13 @@
 - Borrar implica ignorar
 - Complejidad( Insert=1, Buscar N/2, Borrar N/2 y  N/2 respectivamente, SOLO CUANDO NO HAY DUPLICADOS), N para duplicatres
 - Mirar ejemplox ox ox ox ox ox 
+
+# MIRAR EJERCICIOS PROPUESTOS!!!!!!!!!!!!!!!!!ª!
+
+# Ordenamiento
+- Simple
+  - Tarea Comun
+    - Burbuja SUMATORIA N PRIMEROS NAMBERS
+    - Seleccion  Al verre, elige menor recorriendo array, y lo tira al principiox
+    - Insercion 
+    
