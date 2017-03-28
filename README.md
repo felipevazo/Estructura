@@ -33,7 +33,8 @@
 # Ordenamiento
 - Simple
   - Tarea Comun
-    - Burbuja SUMATORIA N PRIMEROS NAMBERS
+    - Burbuja SUMATORIA N PRIMEROS NAMBERS, orden n2
     - Seleccion  Al verre, elige menor recorriendo array, y lo tira al principiox
-    - Insercion 
+    - Insercion Casi 2 veces mas rapido que burbuja, pesca 1, mueve a aux y compara izquierda hasta encontrar menor
     
+# TAREA, heredar las clases existentes, otra clase para busbuja, donde yo inserte arreglo completo
