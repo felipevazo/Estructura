@@ -38,3 +38,16 @@
     - Insercion Casi 2 veces mas rapido que burbuja, pesca 1, mueve a aux y compara izquierda hasta encontrar menor
     
 # TAREA, heredar las clases existentes, otra clase para busbuja, donde yo inserte arreglo completo
+
+
+# Ordenamiento Avanzado
+# AlgoRythmics
+# QuickSort
+
+- Juan quicksort -> CHarles A. Hoare, 1962
+- PUNTO MEDIO ES EL UNICO ORDENADO
+# Particionamiento
+ - Grupo de datos desordenados, divide en 2 grupos, dependiendo un divisor( menores que divisor y mayores que divisor)
+ - primer divisor al azar
+ - Tomo dos pivotes
+ 
