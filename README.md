@@ -46,6 +46,8 @@
 
 - Juan quicksort -> CHarles A. Hoare, 1962
 - PUNTO MEDIO ES EL UNICO ORDENADO
+- PIVOTE -> VALOR DENTRO DEL ARREGLO
+- LUEGO SE PERMUTA PIVOTE POR EL VALOR MAS A LA IZQUIERDA DEL ARREGLO DE LA DERECHA
 # Particionamiento
  - Grupo de datos desordenados, divide en 2 grupos, dependiendo un divisor( menores que divisor y mayores que divisor)
  - primer divisor al azar
