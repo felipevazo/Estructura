@@ -53,3 +53,30 @@
  - primer divisor al azar
  - Tomo dos pivotes
  
+
+
+# ---------------------------------------------------------------
+
+
+# Prueba 2
+# Pilas y Colas
+
+# Pila
+- Top, se puede sacar, el resto gg
+  - Operaciones basicas
+  - Push(apilar)
+  - Pop(desapilar)
+  - peek(cima, leer dato)
+  
+# Cola
+- FIFO!
+- Rear -> Trasera
+- Front -> Delantera
+- Push -> entra por atras
+- Pop -> sale por delante3
+
+# Cola Doblemente Terminada
+ - Generica
+ 
+# Cola de prioridah
+- 
