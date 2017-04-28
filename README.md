@@ -81,6 +81,7 @@
 # Cola de prioridah
 - agregar orden N
 - Quitar orden 1
-- huevos con aceite
-- y limon
+- huevos con aceite   
 
+
+# ALT+SHIFT+F = MAGIA DE ORDENAMIENTO BONI BONI 
