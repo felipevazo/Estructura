@@ -85,3 +85,26 @@
 
 
 # ALT+SHIFT+F = MAGIA DE ORDENAMIENTO BONI BONI 
+
+
+# --------------------------------------------------------
+
+# Recursion
+
+- Metodos llamandose a si mismos
+- conceptual para solucionar problemas!
+
+# Caracteristicas
+ -  Se llama a si mismo
+ - Cuando lo hace, se busca reducir el problema 
+ - Existe cierta version del problema para retornar un valor sin recursividad
+ 
+ - Recursividad guarda valores en pilas de sistema
+ 
+# Ordenamiento Por Mezcla
+
+- MergeSort -> Recursivo
+- O(NlogN)
+- Facil de implementar
+- Requiere otro arreglo adicional en memoria, de tamaño N 
+- MIRAR ALGORYITHMICS
