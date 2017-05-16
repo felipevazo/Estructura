@@ -109,3 +109,4 @@
 - Requiere otro arreglo adicional en memoria, de tamaño N 
 - MIRAR ALGORYITHMICS
 
+http://stackoverflow.com/questions/741900/binary-trees-question-checking-for-similar-shape
