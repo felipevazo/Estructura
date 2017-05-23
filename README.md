@@ -110,3 +110,21 @@
 - MIRAR ALGORYITHMICS
 
 http://stackoverflow.com/questions/741900/binary-trees-question-checking-for-similar-shape
+
+# - - - - -- - - - - - - - - - - - - -  - - 
+# Arboles Rojo/Negro
+- Balanceado: Lado izq casiIgual Lado der
+
+- en los arboles RB (red black) se busca mantener balance durante insercion y borrado
+- Si no se logra se reestructura
+- Caracteristicas
+  - Los nodos poseen c olores (atributo)
+  - Hay reglas de inserción y eliminacion para conservar distribucion de colores
+- Reglas
+  - Cada nodo puede ser rojo o negro
+  - Raiz -> SIEMPRE NEGRA
+  - Si nodo es rojo, hijos negros
+  - Todas las rutas desde raiz a hojas o a un hijo nulo, tiene la misma cantidad de nodos negros
+    - Hijo nulo: Potencial hijo izquierdo de un nodo con solo un hijo derecho (coco faltante)
+    
+    - Cambiar color o rotar son soluciones
