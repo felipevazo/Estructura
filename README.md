@@ -128,3 +128,5 @@ http://stackoverflow.com/questions/741900/binary-trees-question-checking-for-sim
     - Hijo nulo: Potencial hijo izquierdo de un nodo con solo un hijo derecho (coco faltante)
     
     - Cambiar color o rotar son soluciones
+- tabla sash
+
