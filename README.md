@@ -131,3 +131,26 @@ http://stackoverflow.com/questions/741900/binary-trees-question-checking-for-sim
 - tabla sash
 
 http://blog.martincruz.me/2012/10/colas-en-c.html
+# PARA C++
+
+
+
+
+# GRAFOS
+
+- Introduccion  
+   - Flexibles
+   - resuelven cosas/modelan cosas
+   - DFS -> PILA
+   -> Otro -> COla
+   
+   - Profundidad
+     - Vertice
+     - Visito otro
+     - Coloco en pila
+     - Lo marco
+     - Al sgte
+   - Amplitud
+     - Visite el proximo vertice no visitado, marque e inserte en COLA
+     - si no se puede regla 1, remueve vertice de cola y definalo como vertice actual
+     - Si no se puede ni 1 ni 2, gg no re
