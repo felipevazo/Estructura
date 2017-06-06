@@ -130,3 +130,4 @@ http://stackoverflow.com/questions/741900/binary-trees-question-checking-for-sim
     - Cambiar color o rotar son soluciones
 - tabla sash
 
+http://blog.martincruz.me/2012/10/colas-en-c.html
