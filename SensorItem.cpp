@@ -3,7 +3,7 @@ using namespace std;
 class SensorItem
 {
   public:
-   Dato();
+   SensorItem();
    virtual void printDato=0;
   
 }
