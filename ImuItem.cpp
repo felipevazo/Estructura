@@ -7,7 +7,7 @@ class ImuItem:public SensorItem()
     ImuItem(datax,datay,dataz):SensorItem();
     void print()
     {
-      cout<<"("+datax+","+datay+","+dataz);  
+      cout<<("("+datax+","+datay+","+dataz+")");  
     }
     vector<int> getData()
     {
