@@ -24,4 +24,4 @@ class ImuItem:public SensorItem()
     int datay;
     int dataz;
   }
-}
+};
