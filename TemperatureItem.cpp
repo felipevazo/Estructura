@@ -6,11 +6,11 @@ class TemperatureItem: public SensorItem()
   {
     TemperatureItem(data):SensorItem();
 
-    void printData
+    void printData()
   {
     cout<<data
   }
-    float getData
+    float getData()
     {
       return data;
     }
