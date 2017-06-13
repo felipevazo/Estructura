@@ -10,7 +10,7 @@ class TemperatureItem: public SensorItem()
   {
     cout<<data
   }
-    void getData
+    float getData
     {
       return data;
     }
