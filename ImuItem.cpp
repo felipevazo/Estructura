@@ -12,6 +12,7 @@ class ImuItem:public SensorItem()
     vector<int> getData()
     {
       int vector[3]={datax,datay,dataz};
+      return vector;
     }
   }
   
